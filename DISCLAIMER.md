@@ -1,0 +1,1 @@
+Every and all files/projects in this repository where created based on tasks written by SoftUni and/or lectors working in SoftUni and are to be used only for advancing the educational process in the university.
